@@ -12,6 +12,8 @@ You can pull the Docker image using the following command:
 
 docker pull t4iqbal404/my_first_image
 
+To run the docker image:  docker run -p 9999:9999 t4iqbal404/my_first_image
+
 ![main_image](images/main_image.png)
 
 To install docker on my machine, I had to install a Windows Subsystem for Linux
